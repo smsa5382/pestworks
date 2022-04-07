@@ -52,7 +52,7 @@
 		</script>
 		<script>
 		  gtag('config', 'AW-619517364/a5UQCI_hvfUBELSrtKcC', {
-			'phone_conversion_number': '(000) 000-0000'
+			'phone_conversion_number': '(888) 217-3982'
 		  });
 		</script>
 		<style>
@@ -84,7 +84,7 @@
 							<div class="col-md-5 col-lg-7 d-none d-sm-none d-md-block d-lg-block ">
 								<div class="phone_holder">
 									<div class="phone_number">
-										<a href="tel:+10000000000" class="callnowbutton">(000) 000-0000</a>
+										<a href="tel:+18882173982" class="callnowbutton">(888) 217-3982</a>
 									</div>
 								</div>
 							</div>
@@ -102,8 +102,8 @@
 								<p>Need a good pest professional near Multan? Our pros have the tools and know-how to solve your problem. We're open now and ready to help. Call us.</p>
 								<h2 class="no-bg">Call Now For Your Free Estimate:</h2>
 								<div class="call_button">
-									<a href="tel:+10000000000" class="callbutton">
-										<i class="flaticon-customer-service"></i>(000) 000-0000
+									<a href="tel:+18882173982" class="callbutton">
+										<i class="flaticon-customer-service"></i>(888) 217-3982
 									</a>
 									<div class="trusted_local_business">
 										<img src="img/trustpilot.png" alt="" class="img-fluid">
@@ -143,7 +143,7 @@
                         <div class="whychooseuscontent">
                             <h1>Multan's Top pest Professionals</h1>
 							<p>Our pros are ready to provide you with affordable, effective, and stress-free solutions to make sure you never have to deal with your pest issue again.</p>
-							<p>Call <a href="tel:18888926825" class="callbutton">(000) 000-0000</a> for your free estimate or to have any questions answered.</p>
+							<p>Call <a href="tel:18888926825" class="callbutton">(888) 217-3982</a> for your free estimate or to have any questions answered.</p>
                             <div class="list_section">
                                 <div class="row">
                                     <div class="col-12 col-sm-6">
@@ -163,7 +163,7 @@
                                 </div>
                             </div>
                             <div class="phone_number">
-                                <a href="tel:18888926825" class="callnowbutton">(000) 000-0000</a>
+                                <a href="tel:18888926825" class="callnowbutton">(888) 217-3982</a>
                             </div>
                         </div>
                     </div>
@@ -359,7 +359,7 @@
 							<h1>24 Hour Pest Control Services</h1>
 							<h2 class="no-bg">Call Now For Your Free Estimate:</h2>
                             <div class="phone_number">
-                                <a href="tel:+10000000000" class="callnowbutton">(000) 000-0000</a>
+                                <a href="tel:+18882173982" class="callnowbutton">(888) 217-3982</a>
                             </div>
                         </div>
                     </div>
