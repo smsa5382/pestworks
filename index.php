@@ -98,8 +98,8 @@
                         <div class="banner_text">
 							<div class="banner_vertical">
 								<h1>24 Hour Pest Control Services</h1>
-								<h3>Serving Multan PB And The Surrounding Area</h3>
-								<p>Need a good pest professional near Multan? Our pros have the tools and know-how to solve your problem. We're open now and ready to help. Call us.</p>
+								<h3>Serving California PB And The Surrounding Area</h3>
+								<p>Need a good pest professional near California? Our pros have the tools and know-how to solve your problem. We're open now and ready to help. Call us.</p>
 								<h2 class="no-bg">Call Now For Your Free Estimate:</h2>
 								<div class="call_button">
 									<a href="tel:+18882173982" class="callbutton">
@@ -141,7 +141,7 @@
                     </div>
                     <div class="col-12 col-md-12 col-lg-6">
                         <div class="whychooseuscontent">
-                            <h1>Multan's Top pest Professionals</h1>
+                            <h1>California's Top pest Professionals</h1>
 							<p>Our pros are ready to provide you with affordable, effective, and stress-free solutions to make sure you never have to deal with your pest issue again.</p>
 							<p>Call <a href="tel:18888926825" class="callbutton">(888) 217-3982</a> for your free estimate or to have any questions answered.</p>
                             <div class="list_section">
